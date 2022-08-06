@@ -6,6 +6,7 @@ import UseRefDemo2 from "./UseRefDemo/UseRefDemo2";
 import UseRefDemo3 from "./UseRefDemo/UseRefDemo3";
 import UseEffectDemo from "./UseEffectDemo";
 import UseContextDemo from "./UseContextDemo";
+import UseReducerDemo from "./UseReducerDemo";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <UseRefDemo3 />
       <UseEffectDemo />
       <UseContextDemo />
+      <UseReducerDemo />
     </div>
   );
 }
